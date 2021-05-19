@@ -1,0 +1,48 @@
+
+/* space css start */
+.pt-150 {
+    padding-top: 150px;
+}
+.pb-150 {
+    padding-bottom: 150px;
+}
+.pl-30 {
+    padding-left: 30px;
+}
+.pt-70 {
+    padding-top: 70px;
+}
+.mt-15 {
+    margin-top: 15px;
+}
+
+/* space css end */
+
+/* section css start */
+.section-header {
+    margin-bottom: 50px;
+}
+.section-title {
+    font-size: 54px;
+}
+/* section css end */
+
+/* button css start */
+.cmn-btn {
+    padding: 15px 30px;
+    background-color: var(--main-color);
+    color: white;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    border: 1px solid rgb(228, 193, 105);
+    transition: all 0.3s;
+}
+.cmn-btn:hover {
+    background-color: rgb(233, 191, 84);
+    color: black;
+}
+button.cmn-btn {
+    cursor: pointer;
+}
+/* button css end */
